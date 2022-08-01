@@ -1,0 +1,14 @@
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\bin\Debug\net6.0\ShopingCart.Uitilty.deps.json
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\bin\Debug\net6.0\ShopingCart.Uitilty.dll
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\bin\Debug\net6.0\ShopingCart.Uitilty.pdb
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.csproj.AssemblyReference.cache
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.AssemblyInfoInputs.cache
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.AssemblyInfo.cs
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.csproj.CoreCompileInputs.cache
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.dll
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\refint\ShopingCart.Uitilty.dll
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.pdb
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ref\ShopingCart.Uitilty.dll
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\bin\Debug\net6.0\ShopingCart.Uitilty.runtimeconfig.json
+D:\.net\Asp.net Core\ShoppingCart\ShoppingCart.Web\ShopingCart.Uitilty\obj\Debug\net6.0\ShopingCart.Uitilty.genruntimeconfig.cache
